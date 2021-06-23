@@ -1,5 +1,5 @@
 # Merhabalar.
-**Yapmış olduğum 'python sesli asistan'örneğini istediğiniz gibi forklamanız şartı ile geliştirip paylaşabilirsiniz.**
+**Yapmış olduğum  'python sesli asistan'  örneğini istediğiniz gibi forklamanız şartı ile geliştirip paylaşabilirsiniz.**
 
 ### Gerekli modüller ;
 - speech_recognition
